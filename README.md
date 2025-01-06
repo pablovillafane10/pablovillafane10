@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hola, soy Pablo Villafañe
 
-<!--
-**pablovillafane10/pablovillafane10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ingeniero Industrial en formación | Diseñador UX/UI | Analista Financiero**
 
-Here are some ideas to get you started:
+### 💡 Sobre mí
+Soy apasionado por la tecnología, el diseño y la innovación. Combino mi formación en ingeniería con habilidades creativas en diseño de experiencias digitales y análisis estratégico en mercados financieros.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Habilidades
+- **Diseño UX/UI:** Investigación de usuarios, wireframes, prototipos interactivos, diseño de interfaces.  
+- **Tecnologías:** HTML, CSS, Figma, Photoshop, Illustrator, AutoCAD.  
+- **Mercados Financieros:** Análisis técnico y fundamental (cripto, acciones, bonos).  
+- **Inmobiliario:** Captación, valuación y cierre de operaciones.
+
+### 📚 Formación
+- Ingeniería Industrial - **Universidad Nacional de La Plata** (en curso).  
+- Diseño UX/UI - **Coder House** (2024-2025).  
+
+### 🌐 Encuéntrame en:
+- [Behance](https://www.behance.net/pablovilla5)  
+- [GitHub](https://github.com/pablovillafane10)
+
+### ✨ Manifiesto
+Mi meta es transformar ideas en soluciones efectivas y generar impacto positivo a través de la creatividad, la estrategia y la tecnología.
+
+---
+
+¡Gracias por visitar mi perfil! 👨‍💻
