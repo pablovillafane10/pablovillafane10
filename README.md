@@ -13,7 +13,7 @@ Soy apasionado por la tecnología, el diseño y la innovación. Combino mi forma
 
 ### 📚 Formación
 - Ingeniería Industrial - **Universidad Nacional de La Plata** (en curso).  
-- Diseño UX/UI - **Coder House** (2024-2025).  
+- Desarrollo UX/UI - **Coder House** (2024-2025).
 
 ### 🌐 Encuéntrame en:
 - [Behance](https://www.behance.net/pablovilla5)  
